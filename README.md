@@ -22,7 +22,7 @@ mvn install
 
 Go to the target directory and input:
 
-java -jar nettysimpletask-0.0.1-SNAPSHOT.jar <port_number>
+java -jar nettysimpletask-0.0.1-SNAPSHOT.jar port_number
 
 or 
 
